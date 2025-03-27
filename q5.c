@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-#define QTD_DELEGACAO 2
-#define QTD_ATLETA 2
+#define QTD_DELEGACAO 5
+#define QTD_ATLETA 10
 
 typedef struct {
     char nome[255];

@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define QTD_PESSOAS 3
+#define QTD_PESSOAS 30
 
 typedef struct {
    int idade;

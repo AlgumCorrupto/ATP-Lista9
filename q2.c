@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-#define QTD_PESSOAS 3
+#define QTD_PESSOAS 200
 
 typedef struct {
    char sexo;
